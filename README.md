@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
   <a href="https://alokyadav88.web.app/" target="_blank">
-    <img src="https://img.shields.io/badge/website-22aaff?style=for-the-badge&logo=About.me&logoColor=white" height="25" alt="instagram logo"  />
+    <img src="https://img.shields.io/badge/portfolio-22aaff?style=for-the-badge&logo=About.me&logoColor=white" height="25" alt="instagram logo"  />
   </a>
 </div>
 
